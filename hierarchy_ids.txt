@@ -1,0 +1,48 @@
+0 14 16 Company
+1 14 16 EducationalInstitution
+2 15 16 Artist
+3 15 16 Athlete
+4 15 16 OfficeHolder
+5 MeanOfTransportation
+6 17 20 Building
+7 20 NaturalPlace
+8 18 19 20 Village
+9 21 22 Animal
+10 21 22 Plant
+11 23 24 Album					
+12 24 Film					
+13 24 WrittenWork				
+14 16 Organisation			
+15 16 Person				    
+16 Agent					
+17 20 ArchitecturalStructure	
+18 19 20 Settlement				
+19 20 PopulatedPlace			
+20 Place					
+21 22 Eukaryote				
+22 Species					
+23 24 MusicalWork			    
+24 Work					
+25 1 14 16 University				
+26 1 14 16 School					
+27 2 15 16 Writer					
+28 2 15 16 MusicalArtist			
+29 3 15 16 AmericanFootballPlayer	
+30 3 15 16 BaseballPlayer			
+31 3 15 16 Cricketer				
+32 3 15 16 SoccerPlayer			
+33 3 15 16 IceHockeyPlayer			
+34 6 17 20 HistoricBuilding		
+35 6 17 20 Museum				
+36 37 38 7 20 River				
+37 38 7 20 Stream				
+38 7 20 BodyOfWater			
+39 38 7 20 Lake				
+40 7 20 Mountain			
+41 5 Ship				
+42 5 Aircraft			
+43 5 Automobile			
+44 9 21 22 Fish				
+45 9 21 22 Insect				
+46 9 21 22 Mollusca			
+47 13 24 Book				
